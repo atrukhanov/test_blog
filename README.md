@@ -1,6 +1,6 @@
 # test_blog
 
-Для подключение приложения к базе postgres неободимо создать бд и правильно указать параметры в файле application.properties:
+Для подключение приложения к базе postgres неободимо создать бд (в данном случаеимя бд Blog) и правильно указать параметры в файле application.properties:
 spring.datasource.url=*********
 
 spring.datasource.username=**********'
